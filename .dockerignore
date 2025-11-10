@@ -1,0 +1,23 @@
+# macOS
+**/.DS_Store
+
+# JetBrains IDEs
+**/.idea/
+
+# Python
+**/__pycache__/
+*.egg-info/
+
+# VirtualEnv
+**/venv/
+
+# Docker
+**/.dockerignore
+**/Dockerfile
+
+# Development
+**/.git/
+**/.github/
+**/.gitignore
+**/Makefile
+

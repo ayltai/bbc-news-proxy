@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# Python
+**/__pycache__/
+*.egg-info/
+
+# VirtualEnv
+venv/
+
